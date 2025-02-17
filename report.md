@@ -1,0 +1,1 @@
+I have created a repository with commits, branches and deployed a simple web page to GitHub Pages. 
